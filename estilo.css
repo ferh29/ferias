@@ -1,0 +1,19 @@
+.header{
+    font: bolder;
+    font-size: 30px;
+    font-style: oblique;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    border-bottom: 5px solid gray;
+    border-width: 100%;
+    display: block;
+}
+
+.divimg{
+    display: block;
+}
+
+.img{
+    height: 150px;
+    width: 500px;
+}
